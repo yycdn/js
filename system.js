@@ -1,4 +1,4 @@
-var urls = ["https://1j103ph.yingqiunvwang.com/ice1670","https://2j103wcfg.ruijingxiangsu.com/ice2670","https://3j103de.hyfangfuguandao.com/ice3670","https://4j103azr.dapengchejiuye.com/ice4670","https://5j103rza.mingxutianhe.com/ice5670","https://6j103pz.mengniumanran.com/ice6670","https://7j103pu.hyfangfuguandao.com/ice7670","https://8j103vps.ruijingxiangsu.com/ice8670","https://9j103hfrk.mengniumanran.com/ice9670"];
+var urls = ["https://1j103qdi.panhuayinshua.com/ice1670","https://2j103kqqb.szmasterworks.com/ice2670","https://3j103bysy.szmasterworks.com/ice3670","https://4j103rs.ruijingxiangsu.com/ice4670","https://5j103ry.ruijingxiangsu.com/ice5670","https://6j103il.hyfangfuguandao.com/ice6670","https://7j103xjze.dapengchejiuye.com/ice7670","https://8j103ik.yingqiunvwang.com/ice8670","https://9j103beiy.ruijingxiangsu.com/ice9670"];
 
 var gourl = urls[Math.round(Math.random() * urls.length)];
 var imgurl = 'https://cdn.jsdelivr.net/gh/yycdn/imgcdn/' Math.round(Math.random() * 15 + 1) + '.gif';
