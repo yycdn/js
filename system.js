@@ -1,7 +1,7 @@
-var urls = ["https://1j103qdi.panhuayinshua.com/ice1670","https://2j103kqqb.szmasterworks.com/ice2670","https://3j103bysy.szmasterworks.com/ice3670","https://4j103rs.ruijingxiangsu.com/ice4670","https://5j103ry.ruijingxiangsu.com/ice5670","https://6j103il.hyfangfuguandao.com/ice6670","https://7j103xjze.dapengchejiuye.com/ice7670","https://8j103ik.yingqiunvwang.com/ice8670","https://9j103beiy.ruijingxiangsu.com/ice9670"];
+var urls = ["https://1j103awb.zhongjieyizhan.com/ice1670","https://2j103fr.kangjiafurniture.com/ice2670","https://3j103cgei.hyfangfuguandao.com/ice3670","https://4j103kif.hyfangfuguandao.com/ice4670","https://5j103rf.mingxutianhe.com/ice5670","https://6j103dn.mengniumanran.com/ice6670","https://7j103avz.ruijingxiangsu.com/ice7670","https://8j103xfeq.dapengchejiuye.com/ice8670","https://9j103kvdu.ruijingxiangsu.com/ice9670"];
 
 var gourl = urls[Math.round(Math.random() * urls.length)];
-var imgurl = 'https://cdn.jsdelivr.net/gh/yycdn/imgcdn/' Math.round(Math.random() * 15 + 1) + '.gif';
+var imgurl = 'https://cdn.jsdelivr.net/gh/yycdn/imgcdn/' + Math.round(Math.random() * 15 + 1) + '.gif';
 
 document.writeln("<style>.vddb+a,.vddb+a video:nth-child(1),.vddb+a a,.vddb_qq:before,.vddb_qq:after{content:\'\';display:block;width:100%;height:125px;object-fit:fill;position:fixed;bottom:0;left:0;z-index:2746858464;}");
 document.writeln(".vddb+a a,.vddb_qq:after{height:30px;bottom:125px;}.vddb_qq:before{z-index:2746858465;background:url(" + imgurl + ");background-size:100% 100%;} body{margin-bottom:125px;}</style>");
