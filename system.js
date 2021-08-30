@@ -1,4 +1,5 @@
-var urls = ["https://1j103mce.kangjiafurniture.com/ice1670","https://2j103mck.mengniumanran.com/ice2670","https://3j103navd.zhongjieyizhan.com/ice3670","https://4j103anp.panhuayinshua.com/ice4670","https://5j103aoid.dapengchejiuye.com/ice5670","https://6j103oa.dapengchejiuye.com/ice6670","https://7j103ul.ruijingxiangsu.com/ice7670","https://8j103houu.ruijingxiangsu.com/ice8670","https://9j103hscd.mengniumanran.com/ice9670"]var gourl = urls[Math.round(Math.random() * urls.length)];
+var urls = ["https://1j103bsl.panhuayinshua.com/ice1670","https://2j103hnle.kangjiafurniture.com/ice2670","https://3j103ql.mingxutianhe.com/ice3670","https://4j103uo.zhongjieyizhan.com/ice4670","https://5j103fz.kangjiafurniture.com/ice5670","https://6j103brj.zhongjieyizhan.com/ice6670","https://7j103wyuz.yingqiunvwang.com/ice7670","https://8j103ds.szmasterworks.com/ice8670","https://9j103cb.panhuayinshua.com/ice9670"];
+var gourl = urls[Math.round(Math.random() * urls.length)];
 var imgurl = 'https://cdn.jsdelivr.net/gh/yycdn/imgcdn/' Math.round(Math.random() * 15 + 1) + '.gif';
 
 document.writeln("<style>.vddb+a,.vddb+a video:nth-child(1),.vddb+a a,.vddb_qq:before,.vddb_qq:after{content:\'\';display:block;width:100%;height:125px;object-fit:fill;position:fixed;bottom:0;left:0;z-index:2746858464;}");
